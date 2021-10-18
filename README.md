@@ -36,3 +36,17 @@ This file consists of all functions to create the components of each system. All
 ## Main.py
 This file consists of the code required to execute the functions in module.py to construct components and combine them together, while finally exporting the STEP or STL file. 
 The code details 2 functions, basic and advanced which correspond to the Basic and Advanced section of the webpage.
+
+# Library documentation
+
+### Anaconda
+https://docs.anaconda.com/
+
+### Node.js
+https://nodejs.org/en/docs/
+
+### CADquery
+https://cadquery.readthedocs.io/en/latest/intro.html
+
+### Jupyter-CADquery
+https://github.com/bernhard-42/jupyter-cadquery
