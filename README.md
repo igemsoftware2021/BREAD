@@ -34,5 +34,5 @@ The following link can be used for installtion of Nodejs https://nodejs.org/en/d
 This file consists of all functions to create the components of each system. All units for the dimension calculation are in mm.
 
 ## Main.py
-This file consists of the code required to execute the functions in module.py to construct components and combine them together. While finally exporting the STEP or STL file. 
+This file consists of the code required to execute the functions in module.py to construct components and combine them together, while finally exporting the STEP or STL file. 
 The code details 2 functions, basic and advanced which correspond to the Basic and Advanced section of the webpage.
