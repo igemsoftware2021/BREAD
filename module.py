@@ -5,7 +5,7 @@ def Tank(Radius,Thickness,BaseThickness,Height):
      Tank = cq.Workplane("front").circle(Radius+Thickness).extrude(BaseThickness)\
                 .workplane().circle(Radius+Thickness).circle(Radius).extrude(Height)
      return Tank
-    #result = result.extrude(BaseThickness)
+    
     
 def dishedbottom(Radius,Tank_height,Thickness):
     d=Radius*2
